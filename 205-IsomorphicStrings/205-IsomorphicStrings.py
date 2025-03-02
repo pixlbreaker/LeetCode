@@ -1,3 +1,4 @@
+// Last updated: 3/2/2025, 3:09:55 PM
 class Solution:
     def isIsomorphic(self, s: str, t: str) -> bool:
 
